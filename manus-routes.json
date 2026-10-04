@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Grand Imperial — игры"},{"path":"/games/:id","title":"Игра — Grand Imperial"}]}
